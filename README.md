@@ -101,7 +101,7 @@ Configured Agents (workers). Went to Admin Panel -> Agents -> Add New Agent. Add
 <img src="https://i.imgur.com/S9Yr8pz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Users (customers). Agent Panel -> Users -> Add User. Added Karen as a user
+Configured Users (customers). Agent Panel -> Users -> Add User. Added Karen as a user
 </p>
 <br />
 
