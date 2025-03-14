@@ -93,7 +93,7 @@ Allowed anyone to create tickets. Went to Admin Panel -> Settings -> User Settin
 <img src="https://i.imgur.com/AFg13pp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured Agents (workers). Went to Admin Panel -> Agents -> Add New Agent. Added Jane (who is in the "SysAdmins" department) & John (who is in the "Support" department)
 </p>
 <br />
 
