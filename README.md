@@ -85,7 +85,7 @@ Configured Teams (The purpose of teams are to pull agents from different departm
 <img src="https://i.imgur.com/vlYnoOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Allowed anyone to create tickets. Went to Admin Panel -> Settings -> User Settings. Unchecked "Require registration and login to create tickets" so unregistered users can create tickets
+Allowed anyone to create tickets. Went to Admin Panel -> Settings -> User Settings. Unchecked "Require registration and login to create tickets" so unregistered users can create tickets.
 </p>
 <br />
 
@@ -93,7 +93,7 @@ Allowed anyone to create tickets. Went to Admin Panel -> Settings -> User Settin
 <img src="https://i.imgur.com/AFg13pp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured Agents (workers). Went to Admin Panel -> Agents -> Add New Agent. Added Jane (who is in the "SysAdmins" department) & John (who is in the "Support" department)
+Configured Agents (workers). Went to Admin Panel -> Agents -> Add New Agent. Added Jane (who is in the "SysAdmins" department) & John (who is in the "Support" department).
 </p>
 <br />
 
@@ -101,7 +101,47 @@ Configured Agents (workers). Went to Admin Panel -> Agents -> Add New Agent. Add
 <img src="https://i.imgur.com/S9Yr8pz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured Users (customers). Agent Panel -> Users -> Add User. Added Karen as a user
+Configured Users (customers). Agent Panel -> Users -> Add User. Added Karen as a user.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OhmXGqI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configured SLA. Went to Admin Panel -> Manage -> SLA. Created Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), Sev-C (Grace Period: 8 hours, Business Hours). The “Sev” levels (Sev-A, Sev-B, and Sev-C) represent different severity levels of service level agreements (SLAs).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
